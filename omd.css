@@ -1,0 +1,34 @@
+/*.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 100%;
+}*/
+
+.wrapper {
+    max-width: 99%;
+    margin: auto;
+    padding: 10px;
+}
+
+body {
+    background-color: grey;
+}
+
+/*.result {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+    margin: 1rem;
+}*/
+
+nav h3 {
+    color: white;
+    margin: 0;
+}
+
+.search-list-item {
+    cursor: pointer;
+}
